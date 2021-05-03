@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore VS Code file
+.vscode
+
+# Ignore Windows thumbnail cache
+Thumbs.db
